@@ -108,8 +108,7 @@ Bu proje öğrenim amaçlı olduğu için:
 
 →Kod iyileştirme
 
-→Yeni konu önerisi
-→gibi katkılara her zaman açığım!
+→Yeni konu önerisi gibi katkılara her zaman açığım!
 
 📩 İletişim
 
